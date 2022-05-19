@@ -6,4 +6,4 @@ I've chosen to use sentiment140 as is somewhat of a NLP "Hello World!" dataset, 
 
 In all we scored 64% in overall accuracy, which isn't great considering random guessing would yield us 50%. The good news is that we've accomplished our goal of showing that POS tags alone do in fact convey sentiment. A slight drop in performance with POS is to be expected, and considering that the original model only got 78% using full text input with transfer learning, our results look a little bit better. I plan to graduate to a dataset with larger entries as twitter’s 140 character limit is likely contributing to the low scores across the board for this dataset on Kaggle. 
 
-### Dataset not included because it's too large. See https://www.kaggle.com/datasets/kazanova/sentiment140?datasetId=2477&sortBy=voteCount
+#### Dataset not included because it's too large. See https://www.kaggle.com/datasets/kazanova/sentiment140?datasetId=2477&sortBy=voteCount
